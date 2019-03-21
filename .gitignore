@@ -1,24 +1,3 @@
-Skip to content
-Why GitHub? 
-Enterprise
-Explore 
-Marketplace
-Pricing 
-Search
-
-Sign in
-Sign up
-1 0 471 morningcat2018/spring-boot-starter-dubbo
-forked from rucky2013/spring-boot-starter-dubbo-4
- Code  Pull requests 0  Projects 0  Insights
-Join GitHub today
-GitHub is home to over 31 million developers working together to host and review code, manage projects, and build software together.
-
-spring-boot-starter-dubbo/.gitignore
-@teaey teaey Init
-d74530e on 7 Jul 2016
-31 lines (25 sloc)  233 Bytes
-    
 # maven ignore
 target/
 *.jar
@@ -33,7 +12,7 @@ target/
 .classpath
 
 # idea ignore
-.idea/
+.idea
 *.ipr
 *.iml
 *.iws
@@ -48,17 +27,3 @@ target/
 # system ignore
 .DS_Store
 Thumbs.db
-
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Support us  •  Feedback?
